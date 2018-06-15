@@ -1,7 +1,6 @@
 /*********************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
+ * Author: James Meehan
  * Description: Container class menu functions are used to add and access item structs in array data member. Item struct is declared in space.hpp. 
  * ******************************************************/
 #include <iostream>
