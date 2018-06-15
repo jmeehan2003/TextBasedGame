@@ -1,9 +1,9 @@
 /*************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp 
- * Date: 6/6/18 
+ * Author: James Meehan
  * Description: Church Class member functions are the functions called when the user directs the player to the church in the town. This class is a child class of space class
  * **********************************************/
+
 #include <string>
 #include <cstdlib>
 #include <iostream>
