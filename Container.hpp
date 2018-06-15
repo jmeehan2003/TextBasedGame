@@ -1,8 +1,6 @@
 
 /**************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
  * Description: Container class includes a way to store up to three "item" structs. These structs are used to determine what items the sheriff is currently carrying. The functions are used to access and modify these items. 
  * **********************************************/
 #ifndef CONTAINER_HPP
