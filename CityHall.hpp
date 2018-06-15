@@ -1,7 +1,5 @@
 /*********************************************
  * Program Name: outlaw
- * Author Daniel Yopp
- * Date: 6/6/18
  * Description: CityHall class declarations. cityhall is a child class from space class and repersents the functions for the townhall in town.  
  * ******************************************/
 #ifndef CITYHALL_HPP
