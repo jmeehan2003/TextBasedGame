@@ -1,7 +1,6 @@
 /******************************************************8
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/7/18
+ * Author: James Meehan
  * Description: Contains the main function for the outlaw program. 
  * ****************************************************/
 #include <cstdlib>
