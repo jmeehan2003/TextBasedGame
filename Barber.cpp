@@ -1,7 +1,6 @@
 /*************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp 
- * Date: 6/6/18 
+ * Author: James Meehan
  * Description: Barber Class member functions are the functions called when the user directs the player to the barbershop in the town. This class is a child class of space class
  * **********************************************/
 
@@ -26,9 +25,7 @@ Barber::Barber()
 	Tip1 = "Barber: Word on the street is that Jimmy Fasthands isn't at the hidden cave.";
 	Tip2 = "Barber: Word on the street is that Jimmy Fasthands isn't at the abandoned mine because of talk.";
 	Tip3 = "Barber: Sorry Sheriff, I haven't heard anything.";
-
-
- 
+	
 	giftStruct.locationGift = Mustache;
 	giftStruct.giftName = "Mustache Trim Kit";
 	giftStruct.giftValue = 0;
