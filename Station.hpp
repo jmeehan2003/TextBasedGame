@@ -1,7 +1,5 @@
 /*********************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
  * Description: Station class declarations. Train Station class is a child class from space class and repersents the functions for the train station in town.  
  * ******************************************/
 #ifndef STATION_HPP
