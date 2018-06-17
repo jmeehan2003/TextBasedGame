@@ -1,7 +1,5 @@
 /*********************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
  * Description: Townsquare class declarations. Townsquare class is a child class from space class.  
  * ******************************************/
 #ifndef TOWNSQUARE_HPP
