@@ -1,7 +1,5 @@
 /****************************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/7/18
  * Description: Space class is a pure virtual parent class for lacations in the town
  * *************************************************************/
 #ifndef SPACE_HPP
