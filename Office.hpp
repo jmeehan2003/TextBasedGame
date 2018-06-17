@@ -1,7 +1,5 @@
 /*********************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
  * Description: Office class declarations. Office class is a child class from space class and repersents the functions for the barbershop in town.  
  * ******************************************/
 #ifndef OFFICE_HPP
