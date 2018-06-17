@@ -1,7 +1,6 @@
 /***********************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/7/18
+ * Author: James Meehan
  * Description: Menu prompts and input verifications for outlaw
  * ********************************************/
 #include <iostream>
