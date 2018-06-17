@@ -1,7 +1,6 @@
 /*************************************************
  * Program Name: outlaw
- * Author: Daniel Yopp 
- * Date: 6/6/18 
+ * Author: James Meehan
  * Description: Saloon Class member functions are the functions called when the user directs the player to the saloon in the town. This class is a child class of space class
  * **********************************************/
 #include <string>
