@@ -1,7 +1,6 @@
 /******************************************************************
  * Program Name: outlaw
- * Author:Daniel Yopp
- * Date: 6/7/18
+ * Author: James Meehan
  * Description: Sheriff class member functions
  * ***************************************************************/
 #include <iostream>
