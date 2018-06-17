@@ -1,7 +1,5 @@
 /**********************************************
  * Proram Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/7/18
  * Description: Menu class holds menu with prompts and input verifcation functions.
  * *******************************************/
 #ifndef MENU_HPP
