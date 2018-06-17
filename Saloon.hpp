@@ -1,7 +1,5 @@
 /*********************************************
  * Program Name: outlaw
- * Author: Daniel Yopp
- * Date: 6/6/18
  * Description: Barber class declarations. Saloon class is a child class from space class and repersents the functions for the saloon in town.  
  * ******************************************/
 #ifndef SALOON_HPP
